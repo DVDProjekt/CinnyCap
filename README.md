@@ -96,10 +96,6 @@ For the original project, source code, documentation, development information, a
 
 CinnyCap is based on Cinny and follows the licensing terms of the original project.
 
-Cinny is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0-only)**.
-
-For the complete license text, see the [`LICENSE`](LICENSE) file included with this repository.
-
 ---
 
 **CinnyCap** — A refined Cinny experience with improved Arabic/Persian support, enhanced UI, new themes, and additional visual improvements.
